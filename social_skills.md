@@ -1,4 +1,5 @@
-Social skills are behaviors and strategies that facilitate effective interaction and communication with others. Examples of social skills include:
+# Social skills
+These are behaviors and strategies that facilitate effective interaction and communication with others. Examples of social skills include:
 
 ### **Communication Skills**
 1. **Active Listening**: Fully focusing on the speaker, understanding their message, and responding thoughtfully.
