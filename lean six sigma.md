@@ -1,4 +1,5 @@
-Lean Sigma, also known as **Lean Six Sigma**, is a methodology that combines **Lean principles** and **Six Sigma techniques** to improve processes, enhance quality, and reduce waste. It is widely used across industries, including manufacturing, healthcare, and services, to streamline operations and achieve efficiency.
+# Lean Sigma
+Also known as **Lean Six Sigma**, is a methodology that combines **Lean principles** and **Six Sigma techniques** to improve processes, enhance quality, and reduce waste. It is widely used across industries, including manufacturing, healthcare, and services, to streamline operations and achieve efficiency.
 
 ### Key Concepts:
 
