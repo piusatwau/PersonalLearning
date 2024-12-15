@@ -102,5 +102,3 @@ Tensors are the fundamental building blocks of deep learning
   - A tensor that varies across space or time (e.g., vector fields in fluid dynamics).
 
 ---
-
-If you're working in a specific field, let me know, and I can focus more on tensors relevant to that domain!
