@@ -1,0 +1,3 @@
+Humor is the quality of being amusing, entertaining, or provoking laughter. It often involves incongruity, absurdity, surprise, or clever wordplay. Humor can manifest in various forms, such as jokes, puns, satire, irony, or physical comedy. It’s a universal aspect of human interaction that serves multiple purposes, including social bonding, stress relief, and even making serious topics more digestible.
+
+At its core, humor often arises from the unexpected—when something defies our expectations in a clever or absurd way. However, what people find funny can vary greatly based on culture, personal experience, and individual preferences.
