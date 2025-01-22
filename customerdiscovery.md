@@ -1,4 +1,4 @@
-# several strategies for deper understanding of users/customer
+# Several strategies for deper understanding of users/customer
 
 Understanding your users or customers deeply is essential for designing products or services that truly meet their needs. Here are several strategies to achieve this:  
 
